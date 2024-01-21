@@ -13,24 +13,12 @@ This repository is dedicated to developing a dashboard that utilizes AI to recom
 - Frontend: [Streamlit](https://docs.streamlit.io/)
 - Backend: Python 3.12
 - OpenAI API: GPT-3.5
-- External APIs: 도매꾹 API, 네이버 스마트스토어 API
+- External APIs: -
 
 ## Project Installation and Execution
 
 1. **Install Prerequisites:**
    - Install Python 3.12.
-
-2. **Set Environment Variables:**
-   - Create a `.env` file and set necessary environment variables.
-
-3. **Configure OpenAI API:**
-   - Add the OpenAI API key to the `.env` file.
-
-4. **External API Configuration:**
-   - Add the Wholesale Search API, Wholesale Detailed Information API, and Naver Smart Store Product Upload API keys to the `.env` file.
-
-5. **Run the Project:**
-   - Run the Frontend and Backend simultaneously.
 
 ## Usage
 
